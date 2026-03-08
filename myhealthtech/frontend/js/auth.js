@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://health-bp00.onrender.com/api/auth";
 
 // ── SIGNUP ──
 const signupForm = document.getElementById("signupForm");
